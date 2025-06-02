@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // API
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "";
 interface TranslationResponse {
   javaCode: string;
   explanation?: string;
